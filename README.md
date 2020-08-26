@@ -1,4 +1,4 @@
-# trout-yolov6-segmentation [Not released]
+# Fish segmentation [Not released]
 
 
 # Datasets 
