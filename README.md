@@ -3,7 +3,7 @@
 
 # Datasets 
 
-All datasets available on: https://bit.ly/34xV7al Link to Google Drive ✔️
+- All datasets available on: https://bit.ly/34xV7al Link to Google Drive ✔️
 
 ## Resources [Update 2020-08-05]
 
@@ -41,4 +41,6 @@ Keywords to find these datasets: fish, trout
 - 2020-08-25 https://www.fishbase.de/photos/ThumbnailsSummary.php?Genus=Oncorhynchus&Species=mykiss (34MB) ✔️
 - 2020-08-25 https://github.com/cocodataset/cocoapi (API Connection) ✔️
 
+### Dataset prepared for our investigation
 
+- 2020-08-26 https://bit.ly/34BvYeM ✔️
