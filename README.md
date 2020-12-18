@@ -1,3 +1,3 @@
-# Fish segmentation [Moved]
+# Deprecated
 
-https://github.com/DZPeru/fish-datasets
+Clic here -> https://github.com/DZPeru/fish-datasets
